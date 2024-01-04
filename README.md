@@ -13,5 +13,5 @@ Fullstack app for text sentiment analysis using Flask, Python, NLTK, Vuejs
    ```
     $ cd client
     $ npm install
-    $ npm run dev
+    $ npm run serve
    ```
